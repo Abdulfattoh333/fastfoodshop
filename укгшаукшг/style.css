@@ -1,0 +1,192 @@
+.ul1{
+
+display: flex;
+justify-content: space-evenly;
+list-style: none;
+
+}
+li{
+
+    margin-right: 30px;
+}
+nav{
+
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.photo1{
+align-items: center;
+text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.div3 p{
+
+width: 100px;
+    
+}
+
+.card1{
+
+width: 300px;
+   border: solid 5px red;
+}
+.h11{
+
+    text-align: center;
+}
+
+
+.card2{
+
+    width: 300px;
+       border: solid 5px red;
+    }
+
+
+    .card3{
+
+        width: 300px;
+           border: solid 5px red;
+        }
+
+
+        .card4{
+
+            width: 300px;
+               border: solid 5px red;
+            }
+
+
+            .card{
+
+
+                display: flex;
+                justify-content: space-evenly;
+                margin-top: 20px;
+            }
+
+
+.photo2{
+
+align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.div5 p{
+
+
+    width: 100px;
+
+}
+.h22{
+
+
+    text-align: center;
+}
+
+
+.card11{
+
+    width: 360px;
+       border: solid 5px red;
+    }
+
+
+
+
+
+
+    .card22{
+
+        width: 360px;
+           border: solid 5px red;
+        }
+
+        .card33{
+
+   width: 360px;
+     border: solid 5px red;
+ }
+
+
+
+
+
+
+ .card44{
+
+    width: 360px;
+       border: solid 5px red;
+    }
+
+
+    .card55{
+
+        width: 360px;
+           border: solid 5px red;
+        }
+
+
+        .card66{
+
+            width: 360px;
+               border: solid 5px red;
+            }
+
+
+
+
+
+            .photo3{
+align-items: center;
+                text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+            }
+
+            .photo4{
+align-items: center;
+                text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+            }
+
+            footer {
+              margin-top: auto;
+                display: flex;
+                height: max-content;
+                justify-content: space-evenly;
+                background-color: floralwhite;
+                
+            }
+            ul{
+                list-style: none;
+                margin-top: 20px;
+            }
+
+            li{
+
+
+                padding-top: 20px;
+            }
+
+
+          .img2{
+margin-top: 30px;
+
+
+          }  
+
+
+
+        
